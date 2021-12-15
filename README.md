@@ -1,5 +1,5 @@
 # **Flappy_Bird**
-This project is a simple flappy bird clone. You can watch a 4 mins video here (https://www.youtube.com/watch?v=D42_i5yCTko)!
+This project is a simple flappy bird clone. You can watch a 4 mins video here ![Watch the video](https://www.youtube.com/watch?v=D42_i5yCTko)!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,4 +23,4 @@ Flappy bird was a popular game and it's a classic 2D game which can be Implement
 3. npm run dev
 
 ## Acknowledgements
-Thanks Filip Jerga who created this Tutorial (https://www.udemy.com/course/game-development-in-js-the-complete-guide-w-phaser-3/#instructor-2) in Udemy. 
+Thanks Filip Jerga who created this Tutorial ![Watch the video](https://www.udemy.com/course/game-development-in-js-the-complete-guide-w-phaser-3/#instructor-2) in Udemy. 
