@@ -23,4 +23,4 @@ Flappy bird was a popular game and it's a classic 2D game which can be Implement
 3. npm run dev
 
 ## Acknowledgements
-Thanks Filip Jerga who created this Tutorial ![link](https://www.udemy.com/course/game-development-in-js-the-complete-guide-w-phaser-3/#instructor-2) in Udemy. 
+Thanks Filip Jerga who created this Tutorial ![tutorial](https://www.udemy.com/course/game-development-in-js-the-complete-guide-w-phaser-3/#instructor-2) in Udemy. 
