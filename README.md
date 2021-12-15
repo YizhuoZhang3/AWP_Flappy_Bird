@@ -1,4 +1,4 @@
-# **Flappy_Bird**
+# **Flappy Bird**
 This project is a simple flappy bird clone. You can watch a 4 mins video [here](https://www.youtube.com/watch?v=D42_i5yCTko)
 
 ## Table of Contents
