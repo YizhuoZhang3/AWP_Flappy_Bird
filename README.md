@@ -16,6 +16,7 @@ Flappy bird was a popular game and it's a classic 2D game which can be Implement
 - Phaser3
 
 ## Features
+![bird](https://media.giphy.com/media/nVrNV0Abn50GzWDsAa/giphy.gif)
 
 ## Getting Started
 1. Fork and clone this repo
